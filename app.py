@@ -1,3 +1,6 @@
+# make sure you pip install wget
+# and beautifulsoup (maybe beautifulsoup4)
+
 import wget
 from bs4 import BeautifulSoup
 
